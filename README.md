@@ -1,4 +1,4 @@
-# Local-LLM-ChatBot
+# Chatbot
 ## Personal Assistant with Streamlit and Ollama LLM
 ![image](https://github.com/user-attachments/assets/ddddb490-7616-45ab-aeec-0982c4485f09)
 
